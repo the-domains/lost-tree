@@ -1,15 +1,15 @@
-typography_spectrum: 0.39807192562147975
+layout_spectrum: 0.2508077744860202
+typography_spectrum: 0.06527290400117636
 color:
-  brandStrength: 0.479009858565405
-  lightness: 0.5499465267639607
-  saturation: 0.5863409917801619
-  rhythmicContrast: 0.7574341834988445
+  brandStrength: 0.7399964621290565
+  lightness: 0.04187032952904701
+  saturation: 0.12180620455183089
+  rhythmicContrast: 0.9871699463110417
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-layout_spectrum: 0.9220312328543514
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: Lost Tree
 title: Lost Tree
